@@ -1,0 +1,7 @@
+1.Không có tình huống nào
+2.Không
+3.Tùy từng trường hợp thích hợp với đề bài
+4.Tràn bộ nhớ
+5.Không trả về 
+6.Giá trị lỗi
+

@@ -1,0 +1,3 @@
+2. Tràn bộ nhớ vì không có điều kiện thoát của hàm đệ qui
+3. Tràn bộ nhớ
+4. Đệ quy quá sâu dễ gây ra hiện tượng tràn bộ nhớ
